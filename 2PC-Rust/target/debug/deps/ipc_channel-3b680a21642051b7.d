@@ -1,0 +1,10 @@
+/Users/brandenwong/Downloads/skeleton_2pc/target/debug/deps/ipc_channel-3b680a21642051b7.rmeta: /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/lib.rs /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/ipc.rs /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/mod.rs /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/macos/mod.rs /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/macos/mach_sys.rs /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/router.rs
+
+/Users/brandenwong/Downloads/skeleton_2pc/target/debug/deps/ipc_channel-3b680a21642051b7.d: /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/lib.rs /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/ipc.rs /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/mod.rs /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/macos/mod.rs /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/macos/mach_sys.rs /Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/router.rs
+
+/Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/lib.rs:
+/Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/ipc.rs:
+/Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/mod.rs:
+/Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/macos/mod.rs:
+/Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/platform/macos/mach_sys.rs:
+/Users/brandenwong/.cargo/registry/src/github.com-1ecc6299db9ec823/ipc-channel-0.14.1/src/router.rs:
